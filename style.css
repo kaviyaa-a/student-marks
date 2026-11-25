@@ -1,0 +1,30 @@
+button, input{
+     border-radius: 8px;
+   border: solid rgb(204, 202, 202) 1px;
+   padding:8px;
+   margin-inline-start: 8px;
+   background: white;
+}
+
+.bg-light{
+    border-radius: 10px;
+    height: fit-content;
+}
+
+#num{
+    font-size:larger;
+    margin-top: 5px;
+}
+
+#para{
+    font-size: small;
+    font-width: 5px;
+    color: rgb(110, 109, 109);
+}
+
+.showInputs{
+    background-color: rgb(124, 177, 214);
+    border-radius: 8px;
+    width: fit-content;
+    margin-inline-start: 5px;
+}
